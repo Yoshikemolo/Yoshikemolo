@@ -29,6 +29,6 @@ I'm always looking for new opportunities to collaborate on projects that involve
 
 ### Links 🔗
 - Portfolio: [https.productdesignfactory.com](https.productdesignfactory.com) (under construction)
-- LinkedIn: [https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/] (Jorge Rodríguez Rengel at Linkedin)
+- LinkedIn: [Jorge Rodríguez Rengel at Linkedin](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/)
 
 Thank you for taking the time to check out my profile!
