@@ -28,7 +28,7 @@ I am also an expert in UX and UI design and have experience designing software p
 I'm always looking for new opportunities to collaborate on projects that involve UX and front-end development. If you'd like to get in touch, you can email me at jorge.rodriguez.rengel@gmail.com.
 
 ### Links 🔗
-Portfolio: https.prodigysolutions.es
-LinkedIn: https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/
+- Portfolio: https.prodigysolutions.es
+- LinkedIn: https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/
 
 Thank you for taking the time to check out my profile!
