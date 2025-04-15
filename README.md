@@ -1,19 +1,27 @@
 # Hi, I'm @Yoshikemolo 👋
 
-I'm a senior full-stack engineer with over 30 years of experience in the software industry. I've worked on a wide range of projects, from programming video games on the ZX Spectrum with an 8-bit CPU and 48KB of RAM in the 80s to building cutting-edge distributed systems in the cloud using AWS, Google Cloud, and the latest technologies such as machine learning and artificial intelligence.
+I'm a senior hands-on Tech Leader and full-stack engineer with over 30 years of experience in the software industry. I've worked on a wide range of projects, from programming video games on the ZX Spectrum with an 8-bit CPU and 48KB of RAM in the 80s to building cutting-edge distributed systems in the cloud using AWS, Google Cloud, and the latest technologies such as machine learning and artificial intelligence.
 
 ## Skills 🌱
 I have a wide range of skills and experience, including:
 
+- Model Context Protocol (MCP)
+- AI Agents Integration
+- LLM Integraiton
+- Speech AI API Integration
 - JavaScript and TypeScript
 - HTML, CSS, and CSS5
-- NodeJS and NestJS
-- GraphQL
+- NodeJS and Express
+- NestJS and Angular
+- NextJS and ReactJS
+- RESTful API
+- GraphQL API and Apollo Federation Gateway
 - Python
 - J2EE
+- C#
 - C++
 - SQL Server, MySQL, PostgreSQL, and NoSQL databases like MongoDB
-- THREE.js, PotreeJS, Autodesk Forge API, NLP like NaturalNode, AI APIs such as ChatGPT-3.5, OpenCV
+- THREE.js, PotreeJS, Autodesk Forge API, NLP like NaturalNode, AI APIs such as OpenAI API, OpenCV
 - UX and UI design using DDD and SCRUM methodologies, Design Systems based on Atomic Design, and collaborative design tools such as Sketch Up, InVision, and Figma
 - Front-end development using libraries such as Material, Ant Design, and UI components libraries like NgZorro or Telerik and especially PrimeNG
 - Creating multi-platform and responsive web applications and web elements using different frameworks like Angular and Ionic
