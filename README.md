@@ -11,12 +11,14 @@ I have a wide range of skills and experience, including:
 - Speech AI API Integration
 - JavaScript and TypeScript
 - HTML, CSS, and CSS5
+- Most common UI Components libraries: Material, PrimeNg, NgZorro, Ant Design, as well as creating vanilla UI custom UI libraries based on Stand Alone Components
 - NodeJS and Express
 - NestJS and Angular
 - NextJS and ReactJS
 - RESTful API
 - GraphQL API and Apollo Federation Gateway
-- Python
+- Python, FastAPI
+- Kubernetes, Docker, Docker Compose, Argo-CD, GitLab Pipelines
 - J2EE
 - C#
 - C++
@@ -25,12 +27,19 @@ I have a wide range of skills and experience, including:
 - UX and UI design using DDD and SCRUM methodologies, Design Systems based on Atomic Design, and collaborative design tools such as Sketch Up, InVision, and Figma
 - Front-end development using libraries such as Material, Ant Design, and UI components libraries like NgZorro or Telerik and especially PrimeNG
 - Creating multi-platform and responsive web applications and web elements using different frameworks like Angular and Ionic
+- Using and integration of LLM APIs and models for Computer Vision like: OpenCV, YOLO.
+- Using and integration of Id Manager based on Keycloak API.
+- Athomic Design, design system and mockups using Figma.
+- And many other technologies and tools.
 
 ## Experience
 During my career, I have combined my roles as a senior engineer and manager of international software companies for up to 20 years. This has given me a broad perspective, versatility, and experience to design any software product from RFP to test, passing through technical design, UX design, development, and operations. I have worked on dozens of big projects and have experience collecting end-user requirements and designing new software products from scratch.
 
 ## Design
 I am also an expert in UX and UI design and have experience designing software products from scratch using DDD and SCRUM methodologies. I create Design Systems based on Atomic Design and create mockups in collaborative design tools such as Sketch Up, InVision, and Figma. As a passionate front-end developer, I turn those mockups into real products using libraries such as Material, Ant Design, and UI components libraries like NgZorro or Telerik and especially PrimeNG.
+
+## Metodologies
+I am a Scrum Master, without official certification but with +10 years of experience managing projects using this agile methodology. Using Jira and Confluence, and many other tools to manage and document projects, from HLD, to LLD, backlogs, release planning, sprint planning, epics, user stories, tasks, effort estimation, conflict management, change impact evaluation and management, retrospectives, risk identification and management, QA and testing, support, discovering process, ideas and inssights management with Jira Panels, and collaborative, mentoring and leadership skills probed during decades of sucessfull project management and hands-on development.
 
 ## Collaboration
 I'm always looking for new opportunities to collaborate on projects that involve UX and front-end development. If you'd like to get in touch, you can email me at jorge.rodriguez.rengel@gmail.com.
