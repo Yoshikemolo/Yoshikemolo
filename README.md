@@ -1,51 +1,122 @@
-# Hi, I'm @Yoshikemolo
+# Hi, I'm Jorge Rodríguez (@Yoshikemolo)
 
-I'm a senior hands-on Tech Leader and full-stack engineer with over 30 years of experience in the software industry. I've worked on a wide range of projects, from programming video games on the ZX Spectrum with an 8-bit CPU and 48KB of RAM in the 80s to building cutting-edge distributed systems in the cloud using AWS, Google Cloud, and the latest technologies such as machine learning and artificial intelligence.
+I'm a **Senior Hands-on Tech Leader** and **Full-Stack Engineer** with over **30 years of experience** in the software industry. My journey started in the 80s, programming video games on a **ZX Spectrum** with an **8-bit CPU** and **48KB of RAM**. Today, I design and build **scalable distributed systems**, **AI-driven platforms**, and **high-performance applications** using cutting-edge technologies in the **cloud**.
 
-## Skills
-I have a wide range of skills and experience, including:
+I’m passionate about **solving complex problems**, **designing intuitive user experiences**, and **leading teams** to deliver innovative, maintainable, and efficient solutions.
 
-- Model Context Protocol (MCP)
-- AI Agents Integration
-- LLM Integraiton
-- Speech AI API Integration
-- JavaScript and TypeScript
-- HTML, CSS, and CSS5
-- Most common UI Components libraries: Material, PrimeNg, NgZorro, Ant Design, as well as creating vanilla UI custom UI libraries based on Stand Alone Components
-- NodeJS and Express
-- NestJS and Angular
-- NextJS and ReactJS
-- RESTful API
-- GraphQL API and Apollo Federation Gateway
-- Python, FastAPI
-- Kubernetes, Docker, Docker Compose, Argo-CD, GitLab Pipelines
-- J2EE
-- C#
-- C++
-- SQL Server, MySQL, PostgreSQL, and NoSQL databases like MongoDB
-- THREE.js, PotreeJS, Autodesk Forge API, NLP like NaturalNode, AI APIs such as OpenAI API, OpenCV
-- UX and UI design using DDD and SCRUM methodologies, Design Systems based on Atomic Design, and collaborative design tools such as Sketch Up, InVision, and Figma
-- Front-end development using libraries such as Material, Ant Design, and UI components libraries like NgZorro or Telerik and especially PrimeNG
-- Creating multi-platform and responsive web applications and web elements using different frameworks like Angular and Ionic
-- Using and integration of LLM APIs and models for Computer Vision like: OpenCV, YOLO.
-- Using and integration of Id Manager based on Keycloak API.
-- Athomic Design, design system and mockups using Figma.
-- And many other technologies and tools.
+---
 
-## Experience
-During my career, I have combined my roles as a senior engineer and manager of international software companies for up to 20 years. This has given me a broad perspective, versatility, and experience to design any software product from RFP to test, passing through technical design, UX design, development, and operations. I have worked on dozens of big projects and have experience collecting end-user requirements and designing new software products from scratch.
+## About Me
 
-## Design
-I am also an expert in UX and UI design and have experience designing software products from scratch using DDD and SCRUM methodologies. I create Design Systems based on Atomic Design and create mockups in collaborative design tools such as Sketch Up, InVision, and Figma. As a passionate front-end developer, I turn those mockups into real products using libraries such as Material, Ant Design, and UI components libraries like NgZorro or Telerik and especially PrimeNG.
+- Over **30 years of professional experience** in software development and technical leadership.  
+- Built solutions ranging from **embedded systems** to **enterprise-grade distributed architectures**.  
+- Specialized in **AI-powered applications**, **UX/UI design**, and **real-time platforms**.  
+- Proven track record in **leading international teams**, mentoring developers, and delivering high-quality products.  
+- Passionate about **continuous learning** and integrating **state-of-the-art technologies** into practical solutions.
 
-## Metodologies
-I am a Scrum Master, without official certification but with +10 years of experience managing projects using this agile methodology. Using Jira and Confluence, and many other tools to manage and document projects, from HLD, to LLD, backlogs, release planning, sprint planning, epics, user stories, tasks, effort estimation, conflict management, change impact evaluation and management, retrospectives, risk identification and management, QA and testing, support, discovering process, ideas and inssights management with Jira Panels, and collaborative, mentoring and leadership skills probed during decades of sucessfull project management and hands-on development.
+---
 
-## Collaboration
-I'm always looking for new opportunities to collaborate on projects that involve UX and front-end development. If you'd like to get in touch, you can email me at jorge.rodriguez.rengel@gmail.com.
+## Skills & Expertise  
 
-### Links
-- Portfolio: [https.ximplicity.es](https://www.ximplicity.es) (my company webpage, under construction)
-- LinkedIn: [Jorge Rodríguez Rengel at Linkedin](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/)
+### Programming Languages & Frameworks
+- **TypeScript / JavaScript**, **Python**, **Java (J2EE)**, **C#**, **C++**
+- **Angular**, **React / Next.js**, **NestJS**, **Node.js / Express**
+- **GraphQL** (Apollo Federation Gateway) & **RESTful APIs**
+- **FastAPI**, **Spring Boot** *(in progress)*
 
-Thank you for taking the time to check out my profile!
+### AI, Machine Learning & Computer Vision
+- **LLM integration** (OpenAI, Anthropic, custom fine-tuning)
+- **AI Agent frameworks** and **Model Context Protocol (MCP)**
+- **Computer Vision** with **OpenCV**, **YOLO**, and custom detection pipelines
+- **Speech AI** and **Conversational AI integration**
+
+### Cloud & DevOps
+- **AWS**, **Google Cloud**, **Azure**
+- **Docker**, **Docker Compose**, **Kubernetes**, **ArgoCD**
+- **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, and **Terraform**
+- **Scalable deployments** for **microservices-based architectures**
+
+### Databases & Storage
+- **Relational:** MySQL, PostgreSQL, SQL Server  
+- **NoSQL:** MongoDB, Redis  
+- **Object Storage:** MinIO, AWS S3, Google Cloud Storage
+
+### UI, UX & Design Systems
+- Expertise in **Atomic Design** principles and building **scalable Design Systems**  
+- Skilled with **Figma**, **Sketch**, **InVision**, and **collaborative prototyping tools**
+- Strong background in crafting responsive, accessible, and multi-platform interfaces
+
+### 3D Visualization & Interactive Graphics
+- **Three.js**, **React Three Fiber**, **PotreeJS**, **Autodesk Forge API**
+- Development of **digital twins** and real-time 3D visualizations  
+- Integration of interactive models into complex business platforms
+
+---
+
+## Development Best Practices
+
+I focus on **clean, maintainable, and testable code**, following best practices such as:
+
+- **Design Patterns:** Dependency Injection, Decorators, Facades, Strategy, Factory, Observer (Publish/Subscribe)
+- **State Management:** Redux, NgRx, Zustand
+- **Architectures:** Hexagonal, CQRS, Event Sourcing, Microservices
+- **Testing:** Unit, Integration, and E2E testing strategies  
+- Documentation-driven development to ensure **transparency**, **maintainability**, and **knowledge sharing** within teams.
+
+---
+
+## Security by Design
+
+I apply a **security-first mindset** across all projects, focusing on:
+
+- **Data protection** and **GDPR compliance**  
+- **Access control systems** with RBAC and ABAC  
+- **Identity federation and SSO** using **Keycloak** and OpenID Connect  
+- Threat modeling, risk assessment, and **data lifecycle management**
+
+---
+
+## Methodologies & Leadership
+
+I have **10+ years of experience** leading projects with **Agile and Scrum** methodologies:  
+
+- Backlog, release, and sprint planning  
+- Epics, user stories, and task breakdown  
+- Estimations, risk assessments, and dependency management  
+- Mentoring, team-building, and conflict resolution  
+- Managing **distributed teams** and ensuring project visibility  
+- Tools used: **Jira**, **Confluence**, **Trello**, **Miro**, **Notion**
+
+---
+
+## Experience & Achievements
+
+Over the years, I have:  
+- Designed **scalable distributed platforms** for **enterprise applications**.  
+- Led cross-functional teams to deliver **AI-powered solutions** integrated with **real-time 3D visualization**.  
+- Built systems processing **millions of events per minute** with high availability and fault tolerance.  
+- Delivered multi-tenant applications for industries like **energy**, **robotics**, **IoT networks**, and **e-commerce**.
+
+---
+
+## Collaboration & Contact
+
+I'm always open to **collaboration opportunities** on challenging projects involving **AI**, **distributed architectures**, **UX/UI**, and **front-end innovation**.
+
+- **Email:** jorge.rodriguez.rengel@gmail.com  
+- **Portfolio:** [https://www.ximplicity.es](https://www.ximplicity.es) *(in progress)*  
+- **LinkedIn:** [Jorge Rodríguez Rengel](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/)
+
+---
+
+## Discover My Work
+
+If you'd like to know me better, I invite you to explore my **public projects** shared on this GitHub account. They reflect my passion for **designing, building, and sharing software**.
+
+Feel free to **reach out** for any **questions**, **professional opportunities**, or **collaboration proposals**.  
+**Designing, developing software, and sharing it with others is my passion.**
+
+---
+
+Thank you for taking the time to visit my profile!
+
