@@ -25,10 +25,15 @@ I’m passionate about **solving complex problems**, **designing intuitive user 
 - **FastAPI**, **Spring Boot** *(in progress)*
 
 ### AI, Machine Learning & Computer Vision
-- **LLM integration** (OpenAI, Anthropic, custom fine-tuning)
 - **AI Agent frameworks** and **Model Context Protocol (MCP)**
+- **MCP development and integration** (Tools for AI models and Agents)
+- **RAG implementatino** (Retrieval-Augmented Generation that improves LLM accuracy by retrieving relevant, external data to ground generated answers)
+- **Multi-agentic integration** (Integrate and Orchestate different Agent types that works in parallel using reflexion to get better results)
+- **Multi-modal models integration** (Integrate different data types such as text, video, code, image, sound, into a common IA pipeline)
+- **LLM integration** (OpenAI, Anthropic, custom fine-tuning)
 - **Computer Vision** with **OpenCV**, **YOLO**, and custom detection pipelines
-- **Speech AI** and **Conversational AI integration**
+- **Speech AI** and **Conversational AI integration** (Voice to text to Agent, result to text to image or audio, or app actions)
+- **Full Agentic integration** Integrate all the previous with SW solutions: backend and frontend, with MCP, APIs and UI to provide the best UX as possible
 
 ### Cloud & DevOps
 - **AWS**, **Google Cloud**, **Azure**
