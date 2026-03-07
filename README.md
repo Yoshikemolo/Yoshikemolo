@@ -108,8 +108,8 @@ Over the years, I have:
 
 I'm always open to **collaboration opportunities** on challenging projects involving **AI**, **distributed architectures**, **UX/UI**, and **front-end innovation**.
 
-- **Email:** jorge.rodriguez.rengel@gmail.com  
-- **Portfolio:** [https://www.ximplicity.es](https://www.ximplicity.es) *(in progress)*  
+- **Email:** jorge.rodriguez@ximplicity.es(mailto:jorge.rodriguez@ximplicity.es)  
+- **Portfolio:** [https://www.ximplicity.es](https://www.ximplicity.es)  
 - **LinkedIn:** [Jorge Rodríguez Rengel](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-46346343/)
 
 ---
