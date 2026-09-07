@@ -1,10 +1,10 @@
-# Hi, I'm Jorge Rodríguez (@Yoshikemolo) - (XIMPLICITY Software Solutions)[https://ximplicity.es]
+# Hi, I'm Jorge Rodríguez (@Yoshikemolo) - [XIMPLICITY Software Solutions](https://ximplicity.es)
 
 I'm a **Senior Hands-on Tech Leader** and **Full-Stack Engineer** with over **30 years of experience** in the software industry. My journey started in the 80s, programming video games on a **ZX Spectrum** with an **8-bit CPU** and **48KB of RAM**. Today, I design and build **scalable distributed systems**, **AI-driven platforms**, and **high-performance applications** using cutting-edge technologies in the **cloud**.
 
 I’m passionate about **solving complex problems**, **designing intuitive user experiences**, and **leading teams** to deliver innovative, maintainable, and efficient solutions.
 
-Check my latest product online: EVIDENT App (https://evidentapp.ai)[https://evidentapp.ai]
+Check my latest product online: EVIDENT App [https://evidentapp.ai](https://evidentapp.ai)
 
 ---
 
